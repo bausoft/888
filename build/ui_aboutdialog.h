@@ -132,7 +132,7 @@ public:
 "\n"
 "          This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.\n"
 "\n"
-"          Website: andarazoroflove.org\n"
+"          \n"
 "        ", 0, QApplication::UnicodeUTF8));
     } // retranslateUi
 
